@@ -1,1 +1,1 @@
-FRom Nginx
+FROM Ubuntu
