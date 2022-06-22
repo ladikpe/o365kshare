@@ -11,7 +11,7 @@
                                 <option value="0"> Select Technology </option>
                                 <option value="1"> OneDrive </option>
                                 <option value="2"> Skype for Business </option>
-                                <option value="3"> MS TEAM </option>
+                                <option value="3"> MS TEAMS </option>
                                 <option value="4"> SharePoint Online</option>
                                 <option value="5"> Exchange Online</option>
                             </select>
