@@ -23,5 +23,6 @@ class Welcome extends CI_Controller {
                 $this->load->view('include/header');
 		$this->load->view('loginPage');
                 $this->load->view('include/footer');
+		
 	}
 }
